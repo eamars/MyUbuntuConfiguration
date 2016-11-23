@@ -6,6 +6,7 @@ set laststatus=2
 " Use 256 colours (Use this setting only if your terminal supports 256 colours)
 set t_Co=256
 
+" Enable line number
 set number
 
 " show existing tab with 4 spaces width
